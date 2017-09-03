@@ -4,7 +4,7 @@
     <message>
         <location filename="../src/libsync/filesystem.cpp" line="286"/>
         <source>The destination file has an unexpected size or modification time</source>
-        <translation>El archivo destino tiene un tamaño o fecha/hora de modificación no esperado.</translation>
+        <translation>El archivo destino tiene un tamaño no esperado o tiempo modificado (fecha/hora).</translation>
     </message>
 </context>
 <context>
@@ -35,17 +35,17 @@
     <message>
         <location filename="../src/gui/folderwizardtargetpage.ui" line="131"/>
         <source>Select a remote destination folder</source>
-        <translation>Seleccionar una carpeta remota de destino</translation>
+        <translation>Seleccionar destino de una carpeta remota</translation>
     </message>
     <message>
         <location filename="../src/gui/folderwizardtargetpage.ui" line="143"/>
         <source>Create Folder</source>
-        <translation>Crear carpeta</translation>
+        <translation>Crear Carpeta</translation>
     </message>
     <message>
         <location filename="../src/gui/folderwizardtargetpage.ui" line="163"/>
         <source>Refresh</source>
-        <translation>Refrescar</translation>
+        <translation>Renovar</translation>
     </message>
     <message>
         <location filename="../src/gui/folderwizardtargetpage.ui" line="177"/>
